@@ -11,7 +11,7 @@ function cute(brea) {
     case 6:
       alert('Anda kurang terhidrasi dengan baik');
       break;
-      
+
     case 7:
     case 8:
       alert('Anda mengalami kekurangan cairan');
