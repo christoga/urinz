@@ -1,5 +1,7 @@
 .btn {
   margin-bottom: 15px;
+  display: block;
+  width: 100%;
 }
 
 #satu {
