@@ -3,6 +3,10 @@
   width: 100%;
 }
 
+#label {
+  color: #90A4AE;
+}
+
 #satu {
   color: #000;
   background-color: #FEF5CB;
