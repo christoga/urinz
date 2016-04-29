@@ -22,7 +22,8 @@
     <author email="andrechristoga@gmail.com" href="http://christo.js.org">
         Andre Christoga
     </author>
-    <content src="index.html" />
+    <icon src="www/img/logo.png" />
+    <content src="www/index.html" />
     <access origin="*" />
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="BackupWebStorage" value="cloud" />

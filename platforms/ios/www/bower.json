@@ -6,15 +6,12 @@
   "description": "Urine validation",
   "main": "index.html",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/christoga/urinz",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "sweetalert": "^1.1.3"
-  }
+  ]
 }
