@@ -4,4 +4,4 @@ I use apache cordova to build this code.
 ___
 
 ## License
-Licensed under MIT.
+**Urinz** is licensed under MIT.
