@@ -1,7 +1,3 @@
-:root {
-  --white: #fff;
-  --black: #000;
-}
 .btn {
   display: block;
   width: 100%;
@@ -14,49 +10,49 @@
 }
 
 #satu {
-  color: var(--black);
+  color: #000;
   background-color: #FEF5CB;
   border-color: #FEF5CB;
 }
 
 #dua {
-  color: var(--black);
+  color: #000;
   background-color: #FAF27A;
   border-color: #FAF27A;
 }
 
 #tiga {
-  color: var(--black);
+  color: #000;
   background-color: #FEF086;
   border-color: #FEF086;
 }
 
 #empat {
-  color: var(--black);
+  color: #000;
   background-color: #FFEB03;
   border-color: #FFEB03;
 }
 
 #lima {
-  color: var(--black);
+  color: #000;
   background-color: #FFBF4C;
   border-color: #FFBF4C;
 }
 
 #enam {
-  color: var(--white);
+  color: #fff;
   background-color: #F78C2B;
   border-color: #F78C2B;
 }
 
 #tujuh {
-  color: var(--white);
+  color: #fff;
   background-color: #D17D35;
   border-color: #D17D35;
 }
 
 #delapan {
-  color: var(--white);
+  color: #fff;
   background-color: #A15C22;
   border-color: #A15C22;
 }
