@@ -3,6 +3,10 @@
   width: 100%;
 }
 
+.jumbotron {
+  background-color: #fff;
+}
+
 #label {
   color: #90A4AE;
   font-weight: lighter;
